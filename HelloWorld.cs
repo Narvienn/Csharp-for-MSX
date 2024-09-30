@@ -14,5 +14,6 @@ namespace NiePierwszeWyjscieZMroku //container for classes and sub-namespaces
         }
         
         /* NOTE: You could also do the above by running 'System.Console.WriteLine("yourString")'
+        */
     }
 }
