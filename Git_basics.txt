@@ -30,3 +30,9 @@ NEW FILE FLOW - top-down (i.e. from local IDE to remote repo)
 2. git add [file name] --> adds the file to index/stage
 3. git commit (-m "your message") --> adds your file to HEAD
 4. git push origin main --> pushes your file to your repo (Git changed the name 'master' to 'main')
+
+-----------------------------------------------------------
+COMMITTING CHANGES IN AN EXISTING FILE (LOPATOLOGICZNIE, TAK, ALE DZIALA...)
+1. Save your changes (Save, Command+S, Ctrl+S, whatever does the job)
+2. git commit -m
+3. git push origin main (or whatever your branch is)
